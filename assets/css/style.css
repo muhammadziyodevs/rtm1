@@ -1967,6 +1967,7 @@ input[type=color] {
   top: 0;
   left: 0;
   width: 100%;
+  /* filter: grayscale(80%); */
   height: 100%;
 }
 .slider__overlay {
@@ -3317,8 +3318,7 @@ input[type=color] {
 }
 .course__tutor a {
   display: inline-block;
-  padding: 5px;
-  padding-right: 20px;
+  padding: 10px;
   border: 2px solid rgba(67, 86, 255, 0.1);
   -webkit-border-radius: 22px;
   -moz-border-radius: 22px;
