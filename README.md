@@ -1,1 +1,2 @@
-https://netnur.github.io/eduker/
+https://muhammadziyodevs.github.io/eduker/
+
