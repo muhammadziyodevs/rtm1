@@ -73,6 +73,7 @@
   --tp-grey-8: #F4FBF9;
   --tp-grey-9: #F0F8F7;
   --tp-grey-10: #F3F3F3;
+  --tp-grey-11: #989898;
   --tp-text-body: #49535B;
   --tp-text-1: #49535B;
   --tp-text-2: #555C63;
@@ -7931,13 +7932,15 @@ input[type=color] {
   height: 56px;
   line-height: 54px;
   padding: 0 23px;
-  background: var(--tp-grey-2);
+  background: var(--tp-grey-1);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -o-border-radius: 4px;
   -ms-border-radius: 4px;
+  box-shadow: 2px 2px 10px var(--tp-grey-11);
   border-radius: 4px;
   border: 2px solid var(--tp-grey-2);
+
   color: var(--tp-common-black);
   font-size: 15px;
   margin-bottom: 20px;
